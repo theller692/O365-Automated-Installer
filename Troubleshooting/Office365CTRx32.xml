@@ -1,0 +1,10 @@
+<Configuration>
+    <Remove>
+        <Product ID="O365BusinessRetail">
+            <Language ID="en-us"/>
+        </Product>
+    </Remove>
+    <Property Name="FORCEAPPSHUTDOWN" Value="TRUE" />
+    <Display Level="None" AcceptEULA="TRUE"/>
+    <Logging Level="Off"/>
+</Configuration>

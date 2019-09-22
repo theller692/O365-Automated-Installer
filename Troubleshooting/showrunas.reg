@@ -1,0 +1,2 @@
+[HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Windows\Explorer]
+"ShowRunAsDifferentUserInStart"=dword:00000001

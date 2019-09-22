@@ -1,0 +1,14 @@
+<Configuration>
+  <Add OfficeClientEdition="32" Channel="Targeted" OfficeMgmtCOM="True">
+    <Product ID="O365BusinessRetail">
+      <Language ID="en-us" />
+    </Product>
+  </Add>
+  <Updates Enabled="True" Channel="Semi-Annual" />
+  <Display Level="Full" AcceptEULA="True" />
+  <Property Name="PinIconsToTaskbar" Value="TRUE" />
+  <Property Name="AUTOACTIVATE" Value="1" />
+  <Property Name="FORCEAPPSHUTDOWN" Value="TRUE" />
+  <Property Name="SharedComputerLicensing" Value="0" />
+  <Logging Level="Off" />
+</Configuration>
